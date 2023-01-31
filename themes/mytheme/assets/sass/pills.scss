@@ -1,0 +1,20 @@
+.nav-pills{
+    font-size: large;
+    margin-bottom: 40px;
+    padding: 5px 5px;
+}
+.nav-link{
+    border: 1px solid black;
+    border-radius: 0% !important;
+}
+.m-5{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.save-on-annual{
+    position: absolute;
+    bottom: 0;
+    font-size: medium;
+    font-weight: 600;
+}

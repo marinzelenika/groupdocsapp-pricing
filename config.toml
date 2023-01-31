@@ -1,0 +1,48 @@
+baseURL = 'https://purchase.aspose.app/'
+languageCode = 'en-us'
+title = 'Aspose.app Pricing'
+theme = 'mytheme'
+relativeURLS = true
+
+[params]
+        url = "https://purchase-api.dynabic.com/v1.2/products/familyId-196240?isArchived=false&applyDisplayOrder=true&enabledPPPOn=&excludeProductsWithNegativeOrdering=true&excludePlansWithNegativeOrdering=true&clientkey=11f3e8f3c7db4393b887&signature=5tHTDUPJTXgZ9zBWJHIX0yKKK6c"
+
+  [module]
+    [[module.mounts]]
+      source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+      target = "assets/js/bootstrap.bundle.min.js"
+
+[params.dynamicmenuid]
+en = "aspose-en"
+de = "aspose-de"
+es = "aspose-es"
+pt = "aspose-pt"
+
+# Disabled languages
+disableLanguages = []
+defaultContentLang = 'en'
+[languages]
+    [languages.en]
+        languageName = "English"
+        languageCode = "us"
+        contentDir = "content/"
+        flag = "flag-us"
+        weight = 1
+    [languages.de]
+        languageName = "Deutsch"
+        languageCode = "de"
+        contentDir = "content/deutsch"
+        flag = "flag-de"
+        weight = 2
+    [languages.es]
+        languageName = "Español"
+        languageCode = "es"
+        contentDir = "content/Espanol"
+        flag = "flag-es"
+        weight = 3
+    [languages.pt]
+        languageName = "Portuguese"
+        languageCode = "pt"
+        contentDir = "content/Portugese"
+        flag = "flag-pt"
+        weight = 4
