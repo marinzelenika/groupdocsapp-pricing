@@ -1,6 +1,6 @@
-baseURL = 'https://purchase.aspose.app/'
+baseURL = 'https://purchase.groupdocs.app/'
 languageCode = 'en-us'
-title = 'Aspose.app Pricing'
+title = 'GroupDocs.app Pricing'
 theme = 'mytheme'
 relativeURLS = true
 
