@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://purchase.aspose.app/pt/</loc>
+    <loc>https://purchase.groupdocs.app/pt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://purchase.aspose.app/"
+                href="https://purchase.groupdocs.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://purchase.aspose.app/de/"
+                href="https://purchase.groupdocs.app/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://purchase.aspose.app/es/"
+                href="https://purchase.groupdocs.app/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://purchase.aspose.app/pt/"
+                href="https://purchase.groupdocs.app/pt/"
                 />
   </url><url>
-    <loc>https://purchase.aspose.app/pt/portugese/</loc>
+    <loc>https://purchase.groupdocs.app/pt/portugese/</loc>
   </url><url>
-    <loc>https://purchase.aspose.app/pt/categories/</loc>
+    <loc>https://purchase.groupdocs.app/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://purchase.aspose.app/categories/"
+                href="https://purchase.groupdocs.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://purchase.aspose.app/de/categories/"
+                href="https://purchase.groupdocs.app/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://purchase.aspose.app/es/categories/"
+                href="https://purchase.groupdocs.app/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://purchase.aspose.app/pt/categories/"
+                href="https://purchase.groupdocs.app/pt/categories/"
                 />
   </url><url>
-    <loc>https://purchase.aspose.app/pt/tags/</loc>
+    <loc>https://purchase.groupdocs.app/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://purchase.aspose.app/tags/"
+                href="https://purchase.groupdocs.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://purchase.aspose.app/de/tags/"
+                href="https://purchase.groupdocs.app/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://purchase.aspose.app/es/tags/"
+                href="https://purchase.groupdocs.app/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://purchase.aspose.app/pt/tags/"
+                href="https://purchase.groupdocs.app/pt/tags/"
                 />
   </url>
 </urlset>

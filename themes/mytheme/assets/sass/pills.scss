@@ -18,3 +18,20 @@
     font-size: medium;
     font-weight: 600;
 }
+@media (max-width: 359px) {
+  .save-on-annual{
+    top: 60px;
+    clear: both;
+  }
+}
+@media (max-width: 320px) {
+  .save-on-annual{
+    top: 65px;
+    clear: both;
+  }
+}
+@media (max-width: 300px) {
+    .save-on-annual{
+        top: 100px;
+    }
+}

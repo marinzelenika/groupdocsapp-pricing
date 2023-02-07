@@ -22,7 +22,7 @@ $.Site.Params.url }} {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
         <div class="tab-pane fade show active" id="monthly">
         <div class="row d-flex aligns-items-center justify-content-center">
             {{ range first 1 . }}
-            <div class="col-md-3 col-sm-6">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="pricingTable">
                     <div class="pricingTable-header">
                         
@@ -62,7 +62,7 @@ $.Site.Params.url }} {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
                 </div>
             </div>
             {{ range after 1 . }}
-            <div class="col-md-3 col-sm-6">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="pricingTable green">
                   <div class="most-popular">Most Popular</div>
                     <div class="pricingTable-header">
@@ -122,7 +122,7 @@ $.Site.Params.url }} {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="pricingTable blue">
                     <div class="pricingTable-header">
                         
@@ -161,7 +161,7 @@ $.Site.Params.url }} {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
     <div class="tab-pane fade" id="yearly">
         <div class="row d-flex aligns-items-center justify-content-center">
             {{ range first 1 . }}
-            <div class="col-md-3 col-sm-6">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="pricingTable">
                     <div class="pricingTable-header">
                         <h3 class="heading mt-1">{{ .Name }}</h3>
@@ -201,7 +201,7 @@ $.Site.Params.url }} {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
                 </div>
             </div>
             {{ range after 1 . }}
-            <div class="col-md-3 col-sm-6">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="pricingTable green">
                   <div class="most-popular">Most Popular</div>
                     <div class="pricingTable-header">
@@ -261,7 +261,7 @@ $.Site.Params.url }} {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="pricingTable blue">
                     <div class="pricingTable-header">
                         <h3 class="heading mt-1">Business</h3>
